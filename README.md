@@ -1,8 +1,20 @@
 # MUSIC_PLAYER
-Made Homepage and single playlist page for a Online Music PLayer website like Spotify but online Using only HTML and CSS (can latter use JS on it).
-Main Homepage of the website is index.html and styling for the this html is done by external css called stylesheet.css and for the Playlist page html
-is Single Playlist Screen.html and styling css is Single Playlist Screen Style.css and there are two more css files those for to make the pages more responsive .
 
-Pioneered the development of web applications , with a notable achievement in crafting an immersive single
-playlist page for an Online Music Player website, paralleling the user experience of industry leaders like
-Spotify.
+Project Title: Spotify Clone
+
+Description:
+Developed a Spotify Clone using only HTML and CSS technologies to replicate the user interface and design of the popular music streaming platform. The project aimed to showcase proficiency in frontend development, particularly in creating responsive layouts, styling elements, and designing an intuitive user interface. Implemented features such as navigation menus, music player controls, playlist displays, and artist pages. This project demonstrates skills in HTML and CSS, as well as creativity in mimicking the design of a complex web application.
+
+Key Technologies:
+Frontend: HTML, CSS
+
+Key Features:
+Replicated the user interface and design of Spotify using only HTML and CSS.
+Implemented responsive layouts to ensure compatibility across various devices and screen sizes.
+Included navigation menus, music player controls, playlist displays, and artist pages.
+Demonstrated creativity and attention to detail in replicating complex web application designs.
+
+Achievements:
+Successfully developed a Spotify Clone using HTML and CSS, showcasing frontend development skills.
+Demonstrated proficiency in creating responsive layouts and styling elements.
+Showcased creativity and attention to detail in replicating the design of a popular web application.
